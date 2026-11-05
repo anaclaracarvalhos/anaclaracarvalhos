@@ -26,11 +26,6 @@ Na faculdade, venho desenvolvendo minha base em programação com Python e dando
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=anaclaracarvalhos&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF79C6&icon_color=BD93F9&text_color=C9D1D9&ring_color=BD93F9" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaclaracarvalhos&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF79C6&text_color=C9D1D9" />
-</p>
-
 ---
 ### ☎️ Contato
 
